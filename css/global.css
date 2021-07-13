@@ -1,0 +1,12 @@
+
+a  { color: #333; text-decoration: underline }
+a:link  { color: #333; text-decoration: underline }
+a:visited  { color: #333; text-decoration: underline }
+a:hover  { color: #333; text-decoration: none }
+a:active  { color: #333; text-decoration: underline }
+body   { color: #7f7f7f; font-size: 11px; font-family: Verdana, Arial, Helvetica; line-height: 18px }
+h1   { color: #333; font-size: 11px; font-family: Verdana, Arial, Helvetica; font-weight: bold; text-transform: capitalize; margin-bottom: -5px; padding-bottom: -5px }
+p  { color: #7f7f7f; font-size: 11px; font-family: Verdana, Arial, Helvetica; line-height: 18px }
+td  { color: #7f7f7f; font-size: 11px; font-family: Verdana, Arial, Helvetica; line-height: 18px }
+.title     { color: #7f7f7f; font-size: 11px; font-family: Verdana, Arial, Helvetica; font-style: italic; margin-top: -10px; padding-top: -10px }
+.footer       { color: #7f7f7f; font-size: 11px; font-family: Verdana, Arial, Helvetica; font-style: italic; margin-top: 5px; padding-top: 10px; border-top: 1px dotted #e6e6e6 }
